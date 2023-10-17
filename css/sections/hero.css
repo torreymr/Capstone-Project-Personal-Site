@@ -1,0 +1,9 @@
+.image {
+    background-color: grey;
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

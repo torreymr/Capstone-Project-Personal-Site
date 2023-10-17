@@ -3,6 +3,7 @@
 
 /*Imported Section Stylesheets*/
 @import url(sections/header.css);
+@import url(sections/hero.css);
 
 * {
     box-sizing: border-box;
