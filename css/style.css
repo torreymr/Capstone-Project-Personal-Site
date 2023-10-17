@@ -1,5 +1,11 @@
+/*Imported Fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Gabarito:wght@400;500&display=swap');
+
+/*Imported Section Stylesheets*/
+@import url(sections/header.css);
+
 * {
     box-sizing: border-box;
-    margin: 0;
     padding: 0;
+    margin: 0;
 }
