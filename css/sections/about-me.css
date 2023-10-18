@@ -1,8 +1,10 @@
+/*About Me Section Container*/
+
 .about-me {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 30px;
+    gap: 80px;
     padding: 30px 0;
     font-family: "Gabarito", sans-serif;
     background-color: #E5E5CB;
@@ -13,7 +15,9 @@
     font-size: 80px;
 }
 
-.about-me .background-section {
+/*Background Section*/
+
+.background-section {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -21,14 +25,36 @@
     width: 500px;
 }
 
-.about-me h2 {
-    font-size: 50px;
+.background-section h2 {
+    font-size: 45px;
 }
 
-.about-me h3 {
+.background-section h3 {
     font-size: 30px;
 }
 
-.about-me .block {
+.background-section .content {
     text-align: center;
 }
+
+.background-section .material-symbols-outlined {
+    font-size: 78px !important;
+}
+
+.background-section .content {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 25px;
+}
+
+.background-section .content p {
+    color: #3C2A21;
+    font-size: 20px;
+    font-family: "Comfortaa", sans-serif;
+}
+
+
+/*Interests Section*/
+
