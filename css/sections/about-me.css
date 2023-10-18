@@ -5,7 +5,7 @@
     flex-direction: column;
     align-items: center;
     gap: 80px;
-    padding: 30px 0;
+    padding: 100px 0;
     font-family: "Gabarito", sans-serif;
     background-color: #E5E5CB;
     color:#1A120B;
@@ -17,31 +17,34 @@
 
 /*Background Section*/
 
-.background-section {
+.section {
     display: flex;
     flex-direction: column;
     align-items: center;
     gap: 50px;
+}
+
+.background {
     width: 500px;
 }
 
-.background-section h2 {
+h2 {
     font-size: 45px;
 }
 
-.background-section h3 {
+h3 {
     font-size: 30px;
 }
 
-.background-section .content {
+.background .content {
     text-align: center;
 }
 
-.background-section .material-symbols-outlined {
+.background .material-symbols-outlined {
     font-size: 78px !important;
 }
 
-.background-section .content {
+.background .content {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -49,7 +52,7 @@
     gap: 25px;
 }
 
-.background-section .content p {
+.about-me p {
     color: #3C2A21;
     font-size: 20px;
     font-family: "Comfortaa", sans-serif;
@@ -58,3 +61,35 @@
 
 /*Interests Section*/
 
+.interests{
+    padding-top: 100px;
+    width: 100%;
+}
+
+.interests-container{
+    width: 75%;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 25px;
+}
+
+.content {
+    display: flex;
+    gap: 25px;
+    flex-wrap: wrap;
+}
+
+.icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.icons .material-symbols-outlined {
+    font-size: 78px !important;
+}
