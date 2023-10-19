@@ -1,0 +1,43 @@
+/*Global CSS*/ 
+
+header {
+    padding: 2em 0;
+    text-align: center;
+    background-color: #1A120B;
+    color: #D5CEA3;
+    border-bottom: 1px solid #D5CEA3;
+}
+
+h1 {
+    font-family: "Gabarito", sans-serif;
+    font-weight: 500;
+    font-size: 4rem;
+}
+
+@media screen and (min-width: 320px){
+    h1 {
+        font-size: 5rem;
+    }
+}
+
+@media screen and (min-width: 640px){
+    h1 {
+        font-size: 6rem;
+    }
+}
+
+@media screen and (min-width: 1024px){
+    h1 {
+        font-size: 7rem;
+    }
+}
+
+@media screen and (min-width: 1440px){
+    h1 {
+        font-size: 8rem;
+    }
+}
+
+
+
+
