@@ -1,0 +1,37 @@
+.hero .image {
+    background-color: grey;
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.hero {
+    padding: 14rem 5rem;
+    background-color: #3C2A21;
+    color:  #D5CEA3;
+    font-family: "Comfortaa", sans-serif;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.hero .text {
+    font-size: 1.6rem;
+}
+
+.hero-content {
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2.5rem;
+}
+
+
+
+
+
