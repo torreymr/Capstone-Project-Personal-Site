@@ -5,7 +5,7 @@
 /*Imported Section Stylesheets*/
 @import url(sections/header.css);
 @import url(sections/hero.css);
-@import url(sections/about-me.css);
+@import url(sections/background.css);
 
 * {
     box-sizing: border-box;
