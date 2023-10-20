@@ -27,6 +27,10 @@
     gap: 2.5rem;
 }
 
+.hero .image-text {
+    font-size: 1rem;
+}
+
 @media screen and (min-width: 320px){
     .hero .image {
         height: 200px;
@@ -36,6 +40,7 @@
     .hero p {
         font-size: 1.6rem;
     }
+
 }
 
 @media screen and (min-width: 1024px){
@@ -47,6 +52,8 @@
     .hero p {
         font-size: 2rem;
     }
+
+
 }
 
 
