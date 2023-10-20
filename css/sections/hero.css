@@ -33,7 +33,7 @@
         width: 200px;
     }
 
-    .hero .text {
+    .hero p {
         font-size: 1.6rem;
     }
 }
@@ -44,7 +44,7 @@
         width: 300px;
     }
 
-    .hero .text {
+    .hero p {
         font-size: 2rem;
     }
 }
