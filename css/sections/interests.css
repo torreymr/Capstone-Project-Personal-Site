@@ -2,8 +2,8 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #E5E5CB;
-    color:#1A120B;
+    background-color: #1A120B;
+    color: #E5E5CB;
     padding: 5rem 5rem;
     gap: 7.5rem;
 }
