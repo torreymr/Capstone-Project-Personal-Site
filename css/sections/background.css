@@ -32,6 +32,10 @@
 
 @media screen and (min-width: 320px){
 
+    .background-section-container h1 {
+        font-size: 5rem;
+    }
+
     .background-section-container p {
         font-size: 1.6rem;
     }
@@ -48,6 +52,9 @@
 
 @media screen and (min-width: 1024px){
 
+    .background-section-container h1 {
+        font-size: 7rem;
+    }
 
     .background-section-container p {
         font-size: 2rem;
