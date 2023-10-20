@@ -19,12 +19,8 @@
     justify-content: center;
 }
 
-.hero .text {
-    font-size: 1.6rem;
-}
-
 .hero-content {
-    max-width: 500px;
+    max-width: 50rem;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -37,7 +33,7 @@
         width: 200px;
     }
 
-    .hero.text {
+    .hero .text {
         font-size: 1.6rem;
     }
 }
