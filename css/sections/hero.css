@@ -31,6 +31,28 @@
     gap: 2.5rem;
 }
 
+@media screen and (min-width: 320px){
+    .hero .image {
+        height: 200px;
+        width: 200px;
+    }
+
+    .hero.text {
+        font-size: 1.6rem;
+    }
+}
+
+@media screen and (min-width: 1024px){
+    .hero .image {
+        height: 300px;
+        width: 300px;
+    }
+
+    .hero .text {
+        font-size: 2rem;
+    }
+}
+
 
 
 
