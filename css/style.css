@@ -6,6 +6,7 @@
 @import url(sections/header.css);
 @import url(sections/hero.css);
 @import url(sections/background.css);
+@import url(sections/interests.css);
 
 * {
     box-sizing: border-box;
