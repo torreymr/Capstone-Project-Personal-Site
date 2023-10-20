@@ -1,0 +1,43 @@
+.interests-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #E5E5CB;
+    color:#1A120B;
+    padding: 5rem 5rem;
+    gap: 7.5rem;
+}
+
+
+/*RESPONSIVE FONT SIZES*/
+
+@media screen and (min-width: 320px){
+
+    .interests-container h1 {
+        font-size: 5rem;
+    }
+
+    .interests-container p {
+        font-size: 1.6rem;
+    }
+
+    .interests-container h2 {
+        font-size: 3.5rem;
+    }
+
+    .interests-container .material-symbols-outlined {
+        font-size: 5rem !important;
+    }
+
+}
+
+@media screen and (min-width: 1024px){
+
+    .interests-container h1 {
+        font-size: 7rem;
+    }
+
+    .interests-container p {
+        font-size: 2rem;
+    }
+}
