@@ -1,0 +1,61 @@
+.about-me {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #E5E5CB;
+    color:#1A120B;
+    padding: 2rem 5rem;
+    gap: 7.5rem;
+}
+
+.about-me .background {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10rem;
+    max-width: 50rem;
+}
+
+.background .content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2.5rem;
+    text-align: center;
+}
+
+
+
+
+@media screen and (min-width: 320px){
+
+    .about-me .text {
+        font-size: 1.6rem;
+    }
+
+    .about-me h2 {
+        font-size: 3.5rem;
+    }
+
+    .about-me .material-symbols-outlined {
+        font-size: 5rem !important;
+    }
+
+}
+
+@media screen and (min-width: 1024px){
+
+
+    .about-me .text {
+        font-size: 2rem;
+    }
+
+    .about-me h2 {
+        font-size: 4.5rem;
+    }
+
+    .about-me .material-symbols-outlined {
+        font-size: 7.5rem !important;
+    }
+
+}
