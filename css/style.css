@@ -8,6 +8,7 @@
 @import url(sections/background.css);
 @import url(sections/interests.css);
 @import url(sections/contact-me.css);
+@import url(sections/footer.css);
 
 * {
     box-sizing: border-box;
