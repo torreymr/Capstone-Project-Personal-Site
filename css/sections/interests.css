@@ -63,11 +63,12 @@
     }
 
     .interests-content .content .icons{
-        flex: 45%;
+        flex: 50%;
+        text-align: center;
     }
 
     .interests-content .content p {
-        flex: 55%;
+        flex: 50%;
     }
 
     .interests-container .material-symbols-outlined {
