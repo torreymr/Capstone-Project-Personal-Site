@@ -1,12 +1,18 @@
 .contact-container {
     background-color: #3C2A21;
     color:  #D5CEA3;
+    padding: 5rem 5rem;
+    display: flex;
+    justify-content: center;
+}
+
+.contact-container .content {
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: center;
     gap: 2.5rem;
-    padding: 5rem 5rem;
+    max-width: 75rem;
 }
 
 
@@ -31,5 +37,5 @@
     .background-section-container p {
         font-size: 2rem;
     }
-    
+
 }
