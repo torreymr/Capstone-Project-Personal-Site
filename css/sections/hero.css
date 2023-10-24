@@ -1,11 +1,8 @@
-.hero .image {
+.hero img {
     background-color: grey;
-    height: 200px;
-    width: 200px;
+    height: auto;
+    max-width: 250px;
     border-radius: 20px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     color: white;
 }
 
@@ -24,7 +21,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 2.5rem;
+    gap: 5rem;
 }
 
 .hero .image-text {
