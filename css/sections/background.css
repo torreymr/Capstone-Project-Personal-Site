@@ -18,6 +18,7 @@
     align-items: center;
     gap: 10rem;
     max-width: 50rem;
+    padding-bottom: 5rem;
 }
 
 .background .content {
