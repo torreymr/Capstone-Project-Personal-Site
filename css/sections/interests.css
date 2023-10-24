@@ -48,7 +48,7 @@
     }
 
     .interests-container .material-symbols-outlined {
-        font-size: 5rem !important;
+        font-size: 10rem !important;
     }
 
 }
@@ -73,7 +73,7 @@
     }
 
     .interests-container .material-symbols-outlined {
-        font-size: 7.5rem !important;
+        font-size: 12.5rem !important;
     }
 
     .interests-container .container {
@@ -91,7 +91,4 @@
         font-size: 2rem;
     }
 
-    .interests-container .material-symbols-outlined {
-        font-size: 10rem !important;
-    }
 }
