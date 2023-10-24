@@ -1,7 +1,11 @@
+.hero .image {
+    max-width: 300px;
+}
+
 .hero img {
     background-color: grey;
     height: auto;
-    max-width: 250px;
+    max-width: 300px;
     border-radius: 20px;
     color: white;
 }
